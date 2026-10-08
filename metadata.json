@@ -1,0 +1,6 @@
+{
+  "name": "ThreatCast - AI Network Attack Forecasting",
+  "description": "Predict the threat, protect the network. AI world model for network attack trajectory forecasting, attack path projection, explainable cyber defence (SHAP/Attention), and what-if defence simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
